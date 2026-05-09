@@ -133,7 +133,7 @@ def result(history_id):
         return redirect(url_for('dashboard'))
         
     plant_info = medicinal_data.get(history.predicted_class, None)
-    return render_template('result.html', history=history, plant_info=plant_info)
+    return render_template('result.html', history=history, plant_info=plant_info, all_plants=medicinal_data.keys())
 
 @app.route('/library')
 def library():
@@ -146,6 +146,24 @@ def science():
 @app.route('/portfolio')
 def portfolio():
     return render_template('portfolio.html')
+
+@app.route('/feedback/<int:history_id>', methods=['POST'])
+@login_required
+def feedback(history_id):
+    history = PredictionHistory.query.get_or_404(history_id)
+    if history.user_id != current_user.id:
+        return {"error": "Unauthorized"}, 403
+    
+    data = request.get_json()
+    is_correct = data.get('correct')
+    suggested_label = data.get('suggested_label')
+    
+    history.feedback_correct = is_correct
+    if not is_correct and suggested_label:
+        history.user_suggested_label = suggested_label
+    
+    db.session.commit()
+    return {"status": "success"}
 
 @app.route('/plant/<plant_name>')
 def plant_detail(plant_name):

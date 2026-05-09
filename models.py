@@ -21,4 +21,6 @@ class PredictionHistory(db.Model):
     predicted_class = db.Column(db.String(100), nullable=False)
     confidence = db.Column(db.Float, nullable=False)
     gradcam_filename = db.Column(db.String(200), nullable=True)
+    feedback_correct = db.Column(db.Boolean, nullable=True)
+    user_suggested_label = db.Column(db.String(100), nullable=True)
     created_at = db.Column(db.DateTime, default=datetime.utcnow)
