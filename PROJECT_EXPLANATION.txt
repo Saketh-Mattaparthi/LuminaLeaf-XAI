@@ -4,7 +4,9 @@ WHAT IS IT?
 LuminaLeaf is an AI-powered website that identifies medicinal plants from photos of their leaves. Think of it as a "Smart Botanical Assistant" that helps you discover the healing powers of nature.
 
 HOW DOES IT WORK?
-1. The AI "Brain": Uses a Google-developed neural network (InceptionV3) that has been specifically trained to recognize 30+ different medicinal plant species with 93% accuracy.
+1. The AI "Brain": Uses a Google-developed neural network (InceptionV3) that is 48 layers deep. It has been specifically trained on a dataset of ~1,800 medicinal leaf images to recognize 30+ different species.
+   - Training Accuracy: 94.30%
+   - Validation Accuracy: 93.44% (Industry-standard performance)
 2. The "Why" (Grad-CAM): Most AI is a mystery. Our app uses "Explainable AI" to show you a heatmap. This highlights exactly which parts of the leaf (veins, edges, texture) the AI used to make its decision.
 3. Personal Dashboard: Users can sign up to save their scanning history and track their botanical discoveries over time.
 
