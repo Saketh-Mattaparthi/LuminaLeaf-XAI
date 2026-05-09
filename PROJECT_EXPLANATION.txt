@@ -1,0 +1,25 @@
+🌿 LuminaLeaf XAI: Simplified Project Overview
+
+WHAT IS IT?
+LuminaLeaf is an AI-powered website that identifies medicinal plants from photos of their leaves. Think of it as a "Smart Botanical Assistant" that helps you discover the healing powers of nature.
+
+HOW DOES IT WORK?
+1. The AI "Brain": Uses a Google-developed neural network (InceptionV3) that has been specifically trained to recognize 30+ different medicinal plant species with 93% accuracy.
+2. The "Why" (Grad-CAM): Most AI is a mystery. Our app uses "Explainable AI" to show you a heatmap. This highlights exactly which parts of the leaf (veins, edges, texture) the AI used to make its decision.
+3. Personal Dashboard: Users can sign up to save their scanning history and track their botanical discoveries over time.
+
+KEY FEATURES:
+- Instant Identification: Upload a photo, get a result in seconds.
+- Medicinal Knowledge: Access scientific data, traditional uses, and safety warnings for every plant.
+- Feedback Loop: Users can tell the app if it was right or wrong, creating a database for future model improvements.
+- Premium Design: A modern, easy-to-use interface that works on both desktop and mobile.
+
+TECHNICAL STACK (Simple Terms):
+- Backend: Python & Flask (The logic)
+- AI Engine: TensorFlow & Keras (The intelligence)
+- Frontend: HTML, CSS, & Bootstrap (The look)
+- Database: SQLite (The storage)
+
+Created by: Saketh Mattaparthi
+Live Link: https://luminaleaf-xai-1.onrender.com/
+GitHub: https://github.com/Saketh-Mattaparthi/LuminaLeaf-XAI
