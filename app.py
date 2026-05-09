@@ -174,4 +174,4 @@ def plant_detail(plant_name):
     return render_template('plant_detail.html', plant_name=plant_name, info=plant_info)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=True)

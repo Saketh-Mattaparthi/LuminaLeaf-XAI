@@ -6,8 +6,8 @@
         <!-- Profile Header -->
         <div class="row align-items-center mb-5" data-aos="fade-up">
             <div class="col-lg-4 text-center mb-4 mb-lg-0">
-                <div class="glass-card d-inline-block p-2 rounded-circle">
-                    <img src="https://ui-avatars.com/api/?name=Developer&background=0D6EFD&color=fff&size=200" class="rounded-circle img-fluid" alt="Profile Picture">
+                <div class="glass-card d-inline-block p-2 rounded-circle overflow-hidden" style="width: 250px; height: 250px;">
+                    <img src="{{ url_for('static', filename='img/profile.jpg') }}" class="w-100 h-100" style="object-fit: cover;" alt="Saketh Mattaparthi">
                 </div>
             </div>
             <div class="col-lg-8">
