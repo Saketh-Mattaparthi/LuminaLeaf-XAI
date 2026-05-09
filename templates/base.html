@@ -28,7 +28,7 @@
             <a class="navbar-brand" href="{{ url_for('index') }}">
                 <i class="fa-solid fa-leaf me-2"></i>LuminaLeaf XAI
             </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-toggle="target="#navbarNav">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
@@ -38,6 +38,12 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{ url_for('library') }}">Plant Library</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ url_for('science') }}">The Science</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ url_for('portfolio') }}">Portfolio</a>
                     </li>
                     {% if current_user.is_authenticated %}
                         <li class="nav-item">

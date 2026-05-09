@@ -48,5 +48,28 @@
             </div>
         </div>
     </div>
+
+<section class="container mb-5 py-5 border-top">
+    <div class="row align-items-center g-5">
+        <div class="col-lg-6" data-aos="fade-right">
+            <div class="glass-card text-center p-4">
+                <div class="rounded-circle overflow-hidden mx-auto mb-4" style="width: 180px; height: 180px; border: 4px solid var(--primary-green);">
+                    <img src="{{ url_for('static', filename='img/profile.jpg') }}" class="w-100 h-100" style="object-fit: cover;" alt="Creator">
+                </div>
+                <h4 class="fw-bold mb-1">Saketh Mattaparthi</h4>
+                <p class="text-primary mb-3">Lead Developer & AI Researcher</p>
+                <div class="d-flex justify-content-center gap-3">
+                    <a href="https://github.com/Saketh-Mattaparthi" target="_blank" class="text-dark"><i class="fa-brands fa-github fa-lg"></i></a>
+                    <a href="https://www.linkedin.com/in/saketh-mattaparthi-563514321/" target="_blank" class="text-primary"><i class="fa-brands fa-linkedin fa-lg"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6" data-aos="fade-left">
+            <h2 class="display-6 fw-bold mb-4">Meet the Creator</h2>
+            <p class="lead">LuminaLeaf XAI was developed by Saketh Mattaparthi to demonstrate the power of <strong>Explainable AI</strong> in the field of Ethnobotany.</p>
+            <p class="text-muted">By combining modern web technologies like Flask with deep learning models like InceptionV3, this project aims to bridge the gap between traditional wisdom and modern technology.</p>
+            <a href="{{ url_for('portfolio') }}" class="btn btn-primary-custom rounded-pill mt-3">View Full Portfolio</a>
+        </div>
+    </div>
 </section>
 {% endblock %}
