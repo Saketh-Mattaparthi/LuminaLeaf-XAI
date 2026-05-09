@@ -139,6 +139,14 @@ def result(history_id):
 def library():
     return render_template('library.html', plants=medicinal_data)
 
+@app.route('/science')
+def science():
+    return render_template('science.html')
+
+@app.route('/portfolio')
+def portfolio():
+    return render_template('portfolio.html')
+
 @app.route('/plant/<plant_name>')
 def plant_detail(plant_name):
     plant_info = medicinal_data.get(plant_name)

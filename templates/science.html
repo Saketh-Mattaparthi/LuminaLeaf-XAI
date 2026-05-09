@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="py-5">
+    <div class="container">
+        <div class="text-center mb-5" data-aos="fade-up">
+            <h1 class="display-4 fw-bold">The Science of LuminaLeaf</h1>
+            <p class="lead text-muted">Bridging Traditional Medicine and Modern Artificial Intelligence</p>
+        </div>
+
+        <div class="row g-5 align-items-center mb-5">
+            <div class="col-lg-6" data-aos="fade-right">
+                <div class="glass-card">
+                    <h2 class="h3 fw-bold mb-4">InceptionV3 Architecture</h2>
+                    <p>LuminaLeaf XAI is built upon the <strong>InceptionV3</strong> architecture, a state-of-the-art deep convolutional neural network developed by Google. Unlike standard networks, Inception uses "Inception Modules" that look at the image with multiple filter sizes (1x1, 3x3, 5x5) simultaneously.</p>
+                    <p>For medicinal plants, this is critical. It allows the model to see both the <strong>fine details</strong> (leaf veins, serrated edges) and the <strong>broad context</strong> (leaf shape, stem structure) at the same time.</p>
+                    <div class="mt-4">
+                        <span class="badge bg-primary rounded-pill me-2">48 Layers Deep</span>
+                        <span class="badge bg-info rounded-pill me-2">Transfer Learning</span>
+                        <span class="badge bg-success rounded-pill">93.44% Accuracy</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6" data-aos="fade-left">
+                <div class="glass-card bg-dark text-white text-center py-5">
+                    <i class="fa-solid fa-network-wired fa-5x mb-4 text-info"></i>
+                    <h4 class="fw-bold">Neural Connectivity</h4>
+                    <p class="text-white-50">Visualizing high-dimensional feature maps</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row g-5 align-items-center flex-row-reverse mb-5">
+            <div class="col-lg-6" data-aos="fade-left">
+                <div class="glass-card">
+                    <h2 class="h3 fw-bold mb-4">Grad-CAM: Why did it choose that?</h2>
+                    <p>One of the biggest problems in AI is the "Black Box" issue—not knowing <em>why</em> an AI made a prediction. We solve this using <strong>Grad-CAM</strong> (Gradient-weighted Class Activation Mapping).</p>
+                    <p>When you upload an image, LuminaLeaf calculates the gradients of the target class flowing into the final convolutional layer. This creates a <strong>Heatmap</strong> that highlights the specific pixels that triggered the identification. This ensures transparency and builds trust in the results.</p>
+                </div>
+            </div>
+            <div class="col-lg-6" data-aos="fade-right">
+                <div class="glass-card bg-success text-white text-center py-5">
+                    <i class="fa-solid fa-wand-magic-sparkles fa-5x mb-4 text-warning"></i>
+                    <h4 class="fw-bold">Explainability</h4>
+                    <p class="text-white-50">No more black-box predictions.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
