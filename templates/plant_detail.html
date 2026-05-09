@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-8" data-aos="fade-in">
+            <div class="glass-card">
+                <div class="d-flex justify-content-between align-items-center border-bottom pb-3 mb-4">
+                    <h2 class="fw-bold text-success mb-0">{{ plant_name|replace('_', ' ') }}</h2>
+                    <a href="{{ url_for('library') }}" class="btn btn-outline-secondary rounded-pill btn-sm"><i class="fa-solid fa-arrow-left me-2"></i>Back</a>
+                </div>
+                
+                <p class="lead fst-italic text-muted">{{ info.scientific_name }}</p>
+                
+                <div class="mb-4">
+                    <h5 class="fw-bold"><i class="fa-solid fa-circle-info me-2 text-success"></i>Description</h5>
+                    <p>{{ info.description }}</p>
+                </div>
+
+                <div class="mb-4">
+                    <h5 class="fw-bold"><i class="fa-solid fa-notes-medical me-2 text-success"></i>Medicinal Uses</h5>
+                    <ul class="list-group list-group-flush rounded-3 border">
+                        {% for use in info.medicinal_uses %}
+                            <li class="list-group-item bg-transparent border-light"><i class="fa-solid fa-check text-success me-2"></i>{{ use }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+
+                <div class="mb-4">
+                    <h5 class="fw-bold"><i class="fa-solid fa-mortar-pestle me-2 text-success"></i>Traditional Applications</h5>
+                    <p>{{ info.traditional_applications }}</p>
+                </div>
+
+                <div class="alert alert-warning border-warning border-2 rounded-3 mb-0">
+                    <h6 class="fw-bold"><i class="fa-solid fa-triangle-exclamation me-2"></i>Toxicity Warning</h6>
+                    <p class="mb-0 small">{{ info.toxicity_warnings }}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

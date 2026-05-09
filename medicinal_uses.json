@@ -1,0 +1,392 @@
+{
+  "Alpinia Galanga (Rasna)": {
+    "scientific_name": "Alpinia Galanga",
+    "description": "Alpinia Galanga, also known as Rasna, is an important herb in Ayurvedic medicine, commonly used for its anti-inflammatory and analgesic properties. It is effective in treating joint pain, arthritis, and muscular disorders.",
+    "medicinal_uses": [
+      "Used in Ayurvedic oils and decoctions for treating arthritis and joint pain.",
+      "Effective in treating respiratory problems like asthma and bronchitis.",
+      "Applied externally to treat wounds and infections.",
+      "Boosts immune function and helps detoxify the body.",
+      "Used in digestive tonics to relieve bloating and acidity."
+    ],
+    "traditional_applications": "The rhizomes contain essential oils, flavonoids, and other compounds that help reduce swelling, relieve pain, and improve circulation.",
+    "toxicity_warnings": "Generally safe in culinary amounts, but excessive consumption may cause stomach upset."
+  },
+  "Amaranthus Viridis (Arive-Dantu)": {
+    "scientific_name": "Amaranthus Viridis",
+    "description": "Amaranthus Viridis, or Arive-Dantu, is a nutrient-dense leafy vegetable with significant medicinal properties. It is particularly known for its ability to treat anemia due to its high iron content.",
+    "medicinal_uses": [
+      "Consumed to boost hemoglobin levels and treat anemia.",
+      "Used to treat digestive disorders like diarrhea and bloating.",
+      "Extracts are applied topically to promote faster wound healing.",
+      "Supports kidney function and acts as a natural detoxifier.",
+      "Helps reduce inflammation and improve skin health."
+    ],
+    "traditional_applications": "Often cooked as a vegetable or boiled into a soup. The leaves are sometimes crushed for topical application.",
+    "toxicity_warnings": "Contains moderate oxalates; individuals with kidney stones should moderate consumption."
+  },
+  "Artocarpus Heterophyllus (Jackfruit)": {
+    "scientific_name": "Artocarpus Heterophyllus",
+    "description": "Jackfruit, known for its health benefits, is particularly effective in managing blood sugar levels and supporting heart health. The high fiber content promotes gut health.",
+    "medicinal_uses": [
+      "Used in Ayurvedic medicine to control diabetes and improve metabolism.",
+      "Jackfruit leaves are brewed into tea to regulate blood sugar.",
+      "The fruit is consumed for its high fiber and antioxidant content.",
+      "Applied externally as latex to heal wounds and infections.",
+      "Supports heart health by lowering cholesterol and improving circulation."
+    ],
+    "traditional_applications": "The seeds and leaves are traditionally used in teas and decoctions.",
+    "toxicity_warnings": "May interact with diabetes medications by lowering blood sugar too much."
+  },
+  "Azadirachta Indica (Neem)": {
+    "scientific_name": "Azadirachta Indica",
+    "description": "Neem is widely known for its antibacterial, antifungal, and antiviral properties. It is a common remedy for skin issues like acne, eczema, and psoriasis.",
+    "medicinal_uses": [
+      "Neem leaves are used in skincare products to treat acne and other skin conditions.",
+      "Neem oil is applied topically to wounds and skin infections.",
+      "Used in oral care to prevent gum disease and bad breath.",
+      "Neem extracts help in detoxification and boosting immunity.",
+      "Acts as a natural pesticide and insect repellent."
+    ],
+    "traditional_applications": "Neem twigs are used as toothbrushes. Leaves are boiled in bathwater for skin purification.",
+    "toxicity_warnings": "Neem oil can be highly toxic to infants. Prolonged consumption of high doses may cause kidney/liver damage."
+  },
+  "Basella Alba (Basale)": {
+    "scientific_name": "Basella Alba",
+    "description": "Basella Alba, also known as Basale, is a leafy vegetable with a rich nutritional profile. It is particularly valued for its ability to treat anemia.",
+    "medicinal_uses": [
+      "Helps treat anemia by increasing iron levels in the body.",
+      "Used to improve digestion and relieve constipation.",
+      "Applied in skin treatments for its moisturizing and anti-inflammatory properties.",
+      "Supports liver function and detoxification.",
+      "Aids in reducing inflammation and promoting overall health."
+    ],
+    "traditional_applications": "Often cooked into curries or soups to treat digestion issues.",
+    "toxicity_warnings": "Safe when consumed as food in normal quantities."
+  },
+  "Brassica Juncea (Indian Mustard)": {
+    "scientific_name": "Brassica Juncea",
+    "description": "Indian Mustard is often used for its digestive and anti-inflammatory benefits. It helps in improving circulation and treating respiratory conditions.",
+    "medicinal_uses": [
+      "Used to improve digestion and relieve bloating.",
+      "Effective in treating respiratory conditions such as asthma.",
+      "Used to alleviate joint pain and reduce inflammation.",
+      "Mustard oil is applied topically for muscle and joint pain relief.",
+      "Used to stimulate blood circulation and improve skin health."
+    ],
+    "traditional_applications": "Mustard seeds are crushed into pastes for joint application or consumed as a spice.",
+    "toxicity_warnings": "Applying pure mustard oil directly to sensitive skin may cause irritation or burning."
+  },
+  "Carissa Carandas (Karanda)": {
+    "scientific_name": "Carissa Carandas",
+    "description": "Commonly known as Karanda, this fruit-bearing plant is rich in vitamin C, making it useful for boosting immunity and preventing common colds.",
+    "medicinal_uses": [
+      "Used as a remedy for common colds and respiratory infections.",
+      "Helps improve digestion and treat conditions like constipation.",
+      "Used in skincare for its antioxidant and anti-aging properties.",
+      "Helps detoxify the body and improve overall health.",
+      "Consumed to strengthen the immune system and prevent infections."
+    ],
+    "traditional_applications": "The sour fruits are pickled or made into juices for digestive health.",
+    "toxicity_warnings": "Unripe fruits may cause stomach upset."
+  },
+  "Citrus Limon (Lemon)": {
+    "scientific_name": "Citrus Limon",
+    "description": "Lemon is known for its high vitamin C content, supporting the immune system. It has powerful detoxifying properties and is used to cleanse the liver.",
+    "medicinal_uses": [
+      "Lemon juice is consumed to boost immunity and prevent colds.",
+      "Used as a natural detoxifier to cleanse the liver and promote digestion.",
+      "Applied topically to brighten the skin and reduce acne.",
+      "Helps regulate blood pressure and improve heart health.",
+      "Used as a natural remedy for sore throat and indigestion."
+    ],
+    "traditional_applications": "Juice mixed with warm water and honey is a traditional morning detoxifier.",
+    "toxicity_warnings": "Highly acidic; overconsumption can erode tooth enamel and trigger acid reflux."
+  },
+  "Ficus Auriculata (Roxburgh fig)": {
+    "scientific_name": "Ficus Auriculata",
+    "description": "Also known as the Roxburgh fig, it is traditionally used to treat respiratory issues and digestive disorders. The plant is known for anti-inflammatory properties.",
+    "medicinal_uses": [
+      "Used to treat respiratory conditions like asthma and bronchitis.",
+      "Helps in improving digestion and reducing bloating.",
+      "Ficus leaf extracts are used for wound healing.",
+      "Used to treat skin conditions such as eczema and acne.",
+      "Helps reduce inflammation and promote overall health."
+    ],
+    "traditional_applications": "Leaf extracts and fruit pastes are applied to wounds.",
+    "toxicity_warnings": "Generally considered safe, but latex may cause skin irritation in some individuals."
+  },
+  "Ficus Religiosa (Peepal Tree)": {
+    "scientific_name": "Ficus Religiosa",
+    "description": "A sacred tree in many cultures widely used for its medicinal properties to treat digestive disorders, respiratory issues, and skin problems.",
+    "medicinal_uses": [
+      "Used to treat digestive disorders like constipation and indigestion.",
+      "Peepal tree leaves are used in respiratory treatments to alleviate asthma.",
+      "Applied topically for treating skin infections and wounds.",
+      "Helps in boosting immunity and detoxifying the body.",
+      "Used in traditional medicine to treat inflammation and joint pain."
+    ],
+    "traditional_applications": "Bark decoctions and leaf pastes are common Ayurvedic remedies.",
+    "toxicity_warnings": "No major toxicity, but avoid excessive consumption during pregnancy."
+  },
+  "Hibiscus Rosa-sinensis": {
+    "scientific_name": "Hibiscus Rosa-sinensis",
+    "description": "Renowned for its ability to improve heart health and reduce high blood pressure. Flowers are rich in antioxidants.",
+    "medicinal_uses": [
+      "Used to lower blood pressure and improve heart health.",
+      "Hibiscus tea is consumed to improve liver function and detoxify the body.",
+      "Rich in antioxidants, it helps in preventing signs of aging.",
+      "Used to treat digestive disorders like constipation and bloating.",
+      "Helps reduce inflammation and promote overall health."
+    ],
+    "traditional_applications": "Flowers are dried and brewed into teas or infused into hair oils.",
+    "toxicity_warnings": "May drop blood pressure; use caution if taking blood pressure medication."
+  },
+  "Jasminum (Jasmine)": {
+    "scientific_name": "Jasminum",
+    "description": "Known for its calming and therapeutic effects. Commonly used in aromatherapy to relieve stress, anxiety, and depression.",
+    "medicinal_uses": [
+      "Used in aromatherapy to reduce stress and anxiety.",
+      "Jasmine oil is applied topically for skin conditions such as acne and eczema.",
+      "Helps in improving digestion and relieving stomach discomfort.",
+      "Used as a natural sedative to improve sleep quality.",
+      "Acts as an anti-inflammatory agent and helps with joint pain."
+    ],
+    "traditional_applications": "Essential oils are extracted for massage and aromatherapy.",
+    "toxicity_warnings": "Essential oils must be diluted before topical application."
+  },
+  "Mangifera Indica (Mango)": {
+    "scientific_name": "Mangifera Indica",
+    "description": "The 'king of fruits' is also a powerful medicinal plant. Leaves and seeds are used in treating diabetes and improving digestive health.",
+    "medicinal_uses": [
+      "Mango is consumed to boost immunity and prevent colds.",
+      "The leaves are used to regulate blood sugar levels in diabetic patients.",
+      "Mango extract is applied topically for its anti-aging properties.",
+      "Helps improve digestive health and relieve constipation.",
+      "Mango seeds are used to treat diarrhea and stomach issues."
+    ],
+    "traditional_applications": "Tender leaves are boiled to create a tea for blood sugar regulation.",
+    "toxicity_warnings": "Mango sap and skin contain urushiol, which can cause poison-ivy-like skin reactions in sensitive people."
+  },
+  "Mentha (Mint)": {
+    "scientific_name": "Mentha",
+    "description": "Known for cooling and soothing properties, mint treats digestive problems like nausea and indigestion, and has antimicrobial properties.",
+    "medicinal_uses": [
+      "Mint tea is used to soothe nausea, indigestion, and stomach discomfort.",
+      "Mint oil is applied topically to treat headaches and migraines.",
+      "Used in skincare for its cooling effect and to treat acne.",
+      "Helps in improving breathing and treating respiratory conditions.",
+      "Mint is used as a natural mouthwash to freshen breath."
+    ],
+    "traditional_applications": "Crushed leaves are inhaled for respiratory relief or brewed into tea.",
+    "toxicity_warnings": "Excessive consumption of peppermint oil can cause heartburn or kidney problems."
+  },
+  "Moringa Oleifera (Drumstick)": {
+    "scientific_name": "Moringa Oleifera",
+    "description": "Highly valued for a rich nutritional profile and medicinal benefits. Rich in vitamins, minerals, and antioxidants.",
+    "medicinal_uses": [
+      "Used to treat diabetes by regulating blood sugar levels.",
+      "Moringa powder is consumed to boost immunity and prevent infections.",
+      "Helps reduce inflammation and is used in the treatment of arthritis.",
+      "Moringa leaves are used to improve digestion and relieve constipation.",
+      "Moringa oil is applied topically for anti-aging properties."
+    ],
+    "traditional_applications": "Leaves are dried and ground into a potent nutritional powder.",
+    "toxicity_warnings": "Moringa root and bark contain toxic compounds; stick to leaves, seeds, and fruit."
+  },
+  "Muntingia Calabura (Jamaica Cherry-Gasagase)": {
+    "scientific_name": "Muntingia Calabura",
+    "description": "A small tropical tree known for sweet fruit and medicinal benefits. The leaves have anti-inflammatory and diuretic properties.",
+    "medicinal_uses": [
+      "Used to improve skin health due to high antioxidant content.",
+      "Helps in detoxifying the body and improving overall health.",
+      "The leaves are used as a diuretic to reduce fluid retention.",
+      "Used in traditional medicine to reduce fever and treat infections.",
+      "Helps improve digestion and alleviate constipation."
+    ],
+    "traditional_applications": "Leaves are brewed into a medicinal tea to reduce fever.",
+    "toxicity_warnings": "None widely reported, but consume in moderation."
+  },
+  "Murraya Koenigii (Curry)": {
+    "scientific_name": "Murraya Koenigii",
+    "description": "A highly aromatic plant that holds medicinal value. Used to treat indigestion, improve liver function, and regulate blood sugar.",
+    "medicinal_uses": [
+      "Curry leaves are used to treat digestive disorders like indigestion.",
+      "Used to regulate blood sugar levels in diabetic patients.",
+      "Curry leaf oil is applied to improve hair health and prevent hair loss.",
+      "Helps improve liver function and detoxify the body.",
+      "Used to treat skin conditions such as acne and eczema."
+    ],
+    "traditional_applications": "Leaves are boiled in coconut oil to create a hair growth tonic.",
+    "toxicity_warnings": "Generally safe when used in culinary amounts."
+  },
+  "Nerium Oleander (Oleander)": {
+    "scientific_name": "Nerium Oleander",
+    "description": "A highly toxic plant used in extremely small quantities in traditional medicine for its potent therapeutic properties, including heart conditions.",
+    "medicinal_uses": [
+      "Used in small doses to treat heart conditions like congestive heart failure.",
+      "Oleander extract is used to treat inflammatory diseases like arthritis.",
+      "Helps reduce swelling and relieve joint pain.",
+      "Used in traditional medicine for anti-cancer properties.",
+      "Used topically in wound healing and skin infections."
+    ],
+    "traditional_applications": "Strictly administered by trained practitioners in Ayurvedic medicine.",
+    "toxicity_warnings": "EXTREMELY TOXIC. All parts of the plant can cause fatal cardiac arrest if ingested."
+  },
+  "Nyctanthes Arbor-tristis (Parijata)": {
+    "scientific_name": "Nyctanthes Arbor-tristis",
+    "description": "A flowering tree used to treat fever, headaches, and insomnia. Flowers and leaves reduce inflammation and boost immunity.",
+    "medicinal_uses": [
+      "Used to treat fever and reduce body temperature.",
+      "Flowers are used to relieve headaches and migraines.",
+      "Helps improve sleep quality and alleviate insomnia.",
+      "Parijata leaves are used for their anti-inflammatory properties.",
+      "Boosts immunity and helps in detoxifying the body."
+    ],
+    "traditional_applications": "Leaf juice is extracted and mixed with honey to treat fevers.",
+    "toxicity_warnings": "Excessive intake of leaf juice can cause severe nausea and vomiting."
+  },
+  "Ocimum Tenuiflorum (Tulsi)": {
+    "scientific_name": "Ocimum Tenuiflorum",
+    "description": "A sacred plant revered for its ability to boost immunity, reduce stress, and support respiratory health.",
+    "medicinal_uses": [
+      "Used to treat respiratory conditions like asthma and bronchitis.",
+      "Tulsi is consumed to boost immunity and fight off infections.",
+      "Used to reduce stress and anxiety through adaptogenic properties.",
+      "Tulsi tea relieves digestive issues and improves gut health.",
+      "Applied topically to treat skin conditions and promote healing."
+    ],
+    "traditional_applications": "Leaves are chewed raw or brewed into medicinal teas.",
+    "toxicity_warnings": "May slow blood clotting; use caution if taking blood thinners."
+  },
+  "Piper Betle (Betel)": {
+    "scientific_name": "Piper Betle",
+    "description": "Commonly chewed as a stimulant and known for antimicrobial properties. Treats indigestion and ulcers.",
+    "medicinal_uses": [
+      "Betel leaves are chewed to aid digestion and relieve stomach discomfort.",
+      "Used in the treatment of ulcers and gastrointestinal issues.",
+      "Betel leaves treat respiratory problems like cough and asthma.",
+      "Helps reduce inflammation and relieve pain.",
+      "Used as a natural remedy for oral health problems and bad breath."
+    ],
+    "traditional_applications": "Often combined with areca nut and slaked lime, though this specific combination can be carcinogenic.",
+    "toxicity_warnings": "Frequent chewing is linked to oral cancer."
+  },
+  "Plectranthus Amboinicus (Mexican Mint)": {
+    "scientific_name": "Plectranthus Amboinicus",
+    "description": "A perennial herb used for its antifungal, antimicrobial, and anti-inflammatory properties.",
+    "medicinal_uses": [
+      "Used to treat respiratory infections like cough, cold, and bronchitis.",
+      "Leaves are applied topically for pain relief and inflammation.",
+      "Used in the treatment of indigestion and stomach discomfort.",
+      "Mexican Mint is known to boost immunity.",
+      "Used in the treatment of fungal infections and wounds."
+    ],
+    "traditional_applications": "Leaves are crushed and the extract is consumed to soothe throats.",
+    "toxicity_warnings": "Generally safe, but may cause allergic skin reactions in sensitive individuals."
+  },
+  "Pongamia Pinnata (Indian Beech)": {
+    "scientific_name": "Pongamia Pinnata",
+    "description": "A tree with medicinal properties used to treat skin diseases, infections, and promote overall health.",
+    "medicinal_uses": [
+      "The oil is used to treat skin conditions like eczema, psoriasis.",
+      "Used to treat diabetes by regulating blood sugar levels.",
+      "Leaves and seeds are used to treat fever and malaria.",
+      "Pongamia oil alleviates joint pain and inflammation in arthritis.",
+      "Used to improve liver function and detoxify the body."
+    ],
+    "traditional_applications": "Karanja oil is applied externally for rheumatism and skin diseases.",
+    "toxicity_warnings": "Seeds and oil are toxic if consumed internally in large amounts."
+  },
+  "Psidium Guajava (Guava)": {
+    "scientific_name": "Psidium Guajava",
+    "description": "A tropical fruit packed with vitamins and antioxidants. Guava leaves treat diarrhea and reduce blood sugar.",
+    "medicinal_uses": [
+      "Guava leaves are used to treat diarrhea and gastrointestinal disorders.",
+      "The fruit is rich in vitamin C and is consumed to boost immunity.",
+      "Used to regulate blood sugar levels in diabetic patients.",
+      "Guava leaf extract is applied topically to treat wounds.",
+      "Consuming guava helps improve digestion and relieve constipation."
+    ],
+    "traditional_applications": "Guava leaf tea is a standard folk remedy for dysentery.",
+    "toxicity_warnings": "Safe in culinary amounts; excessive consumption may cause temporary constipation."
+  },
+  "Punica Granatum (Pomegranate)": {
+    "scientific_name": "Punica Granatum",
+    "description": "A fruit highly prized for its antioxidant-rich properties. Improves heart health and fights inflammation.",
+    "medicinal_uses": [
+      "Used to improve heart health by lowering cholesterol.",
+      "Pomegranate juice is consumed to boost immunity.",
+      "Helps reduce joint pain and arthritis through anti-inflammatory action.",
+      "Used to treat digestive problems like indigestion and constipation.",
+      "Seeds are used topically for skin health and anti-aging."
+    ],
+    "traditional_applications": "Rinds are dried and ground into powders for digestive disorders.",
+    "toxicity_warnings": "May interact with certain blood pressure and cholesterol medications."
+  },
+  "Santalum Album (Sandalwood)": {
+    "scientific_name": "Santalum Album",
+    "description": "A fragrant wood known for calming effects. Sandalwood oil reduces stress, anxiety, and promotes mental clarity.",
+    "medicinal_uses": [
+      "Sandalwood oil is used in aromatherapy to relieve stress.",
+      "Applied topically to treat acne, reduce scars, and improve skin tone.",
+      "Used as a natural remedy for headaches.",
+      "Known for anti-inflammatory properties; used to reduce joint pain.",
+      "Helps in treating urinary tract infections."
+    ],
+    "traditional_applications": "Wood is ground into a paste with water and applied to the forehead.",
+    "toxicity_warnings": "Essential oils must be heavily diluted before topical application."
+  },
+  "Syzygium Cumini (Jamun)": {
+    "scientific_name": "Syzygium Cumini",
+    "description": "A tropical fruit used in traditional medicine to treat diabetes, digestive issues, and to enhance overall health.",
+    "medicinal_uses": [
+      "Used to regulate blood sugar levels and manage diabetes.",
+      "Jamun fruit and seeds treat digestive issues like diarrhea.",
+      "Jamun juice is consumed to boost immunity and liver function.",
+      "Antioxidant properties help promote healthy skin.",
+      "The fruit is used to treat urinary tract infections."
+    ],
+    "traditional_applications": "Seeds are dried and powdered to make a daily diabetic supplement.",
+    "toxicity_warnings": "Avoid consumption on an empty stomach; can cause hyperacidity."
+  },
+  "Syzygium Jambos (Rose Apple)": {
+    "scientific_name": "Syzygium Jambos",
+    "description": "A tropical fruit rich in antioxidants and vitamins. Used to promote digestive health and support heart health.",
+    "medicinal_uses": [
+      "Consumed to improve digestion and treat digestive disorders.",
+      "Used to treat skin conditions such as acne and eczema.",
+      "Leaves are used to treat fever and reduce inflammation.",
+      "Used to promote heart health by reducing blood pressure.",
+      "The plant treats respiratory conditions like asthma and cough."
+    ],
+    "traditional_applications": "Bark decoctions are used to relieve asthma symptoms.",
+    "toxicity_warnings": "Seeds are considered toxic and should not be consumed."
+  },
+  "Tabernaemontana Divaricata (Crape Jasmine)": {
+    "scientific_name": "Tabernaemontana Divaricata",
+    "description": "A flowering shrub commonly used in Ayurvedic medicine to treat fever, anxiety, and sleep disorders.",
+    "medicinal_uses": [
+      "Used to treat fever and reduce body temperature.",
+      "Leaves relieve headaches and improve sleep.",
+      "Crape Jasmine is used to reduce anxiety and stress.",
+      "Helps in treating respiratory problems like cough and asthma.",
+      "The plant is used to improve skin health and treat wounds."
+    ],
+    "traditional_applications": "Root extracts are chewed to relieve toothaches.",
+    "toxicity_warnings": "Contains potentially toxic alkaloids; self-medication is discouraged."
+  },
+  "Trigonella Foenum-graecum (Fenugreek)": {
+    "scientific_name": "Trigonella Foenum-graecum",
+    "description": "An herb known for its ability to regulate blood sugar levels, improve digestive health, and boost lactation.",
+    "medicinal_uses": [
+      "Used to regulate blood sugar levels and treat diabetes.",
+      "Consumed to boost lactation in nursing mothers.",
+      "Helps improve digestion and relieve constipation.",
+      "Used in skincare for anti-aging properties and to treat acne.",
+      "Fenugreek seeds are used to reduce inflammation and joint pain."
+    ],
+    "traditional_applications": "Seeds are soaked overnight and the water is consumed on an empty stomach.",
+    "toxicity_warnings": "May lower blood sugar too much if combined with diabetes medication. Avoid large doses during pregnancy."
+  }
+}
